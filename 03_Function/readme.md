@@ -77,6 +77,8 @@ solidity官方文档里把函数归到数值类型，但我觉得差别很大，
     }
 ```
 
+**mynote**:相当于 Python的静态函数 staticmethod
+
 **Example:**
 ![3-3.png](./img/3-3.png)
 
